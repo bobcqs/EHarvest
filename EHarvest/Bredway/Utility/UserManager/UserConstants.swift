@@ -1,0 +1,22 @@
+//
+//  UserManagerConstants.swift
+//  Bredway
+//
+//  Created by Xudong Chen on 18/3/19.
+//  Copyright © 2018 Xudong Chen. All rights reserved.
+//
+
+import Foundation
+
+let USER_ID = "USER_ID"
+let USER_NAME = "USER_NAME"
+let USER_EMAIL = "USER_EMAIL"
+let USER_IMAGE_URL = "USER_IMAGEURL"
+let USER_FAVOURITE_LIST = "USER_FAVOURITE_LIST"
+let USER_SOLD_ITEMS = "USER_SOLD_ITEMS"
+let USER_HAS_UNREAD_MESSAGE = "USER_HAS_UNREAD_MESSAGE"
+let USER_FCM_TOKEN = "USER_FCM_TOKEN"
+let USER_SEARCH_HISTORY = "USER_SEARCH_HISTORY"
+
+let PAYPAL_COMMISSION_RATE = "PAYPAL_COMMISSION_RATE"
+let PAYPAL_PROCESS_RATE = "PAYPAL_PROCESS_RATE"
